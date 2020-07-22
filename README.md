@@ -9,9 +9,7 @@ I also have plans to use this in quick sessions with people that are interested 
 As it is written in [Acts 8:30-31](https://www.biblegateway.com/passage/?search=Acts+8%3A30-31&version=ESV)
 
 >30 Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. 
-“Do you understand what you are reading?” Philip asked.
-
->31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him.
+“Do you understand what you are reading?” Philip asked. 31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him.
 
 ## Contact
 
