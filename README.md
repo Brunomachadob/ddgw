@@ -1,39 +1,25 @@
-## Welcome to GitHub Pages
+# Deep Dive into God's Word
+
+This is a study/research compilation of my Bible reading.
+
+My idea is to have a living document that will be updated from time to time according to new understandings, debates with friends and more researches.
+
+I also have plans to use this in quick sessions with people that are interested in learning or understanding some aspects of the context and meanings.
+
+As it is written in [Acts 8:30-31](https://www.biblegateway.com/passage/?search=Acts+8%3A30-31&version=ESV)
+
+>30 Then Philip ran up to the chariot and heard the man reading Isaiah the prophet. 
+“Do you understand what you are reading?” Philip asked.
+
+>31 “How can I,” he said, “unless someone explains it to me?” So he invited Philip to come up and sit with him.
+
+## Contact
+
+Fell free to drop an issue or pull request here for any kind of discussion or fixes in the document.
+
+I'm also available under the following e-mail: <brunomb.web@gmail.com>
+
+# Books
 
 * [Genesis](genesis.md)
 
-You can use the [editor on GitHub](https://github.com/Brunomachadob/ddgw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brunomachadob/ddgw/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
