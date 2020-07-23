@@ -13,6 +13,30 @@
     {% endif %}
     <meta charset="UTF-8">
 
+    <script>
+      var scrollTopButton = document.getElementById("scroll-to-top-btn");
+      var header = document.getElementsByClassName('page-header')[0];
+
+      var scrollThreshold = header.clientHeight;
+
+      scrollTopButton.addEventListener('click', function () {
+          document.body.scrollTop = 0; // For Safari
+          document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      })
+
+      window.onscroll = onScroll;
+
+      onScroll();
+
+      function onScroll() {
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+          scrollTopButton.style.opacity = "1";
+        } else {
+          scrollTopButton.style.opacity = "0";
+        }
+      }
+    </script>
+
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -44,7 +68,5 @@
     <a id="scroll-to-top-btn" href="#">
         <span class="arrow"></span>
     </a>
-
-    <script async src="/assets/js/scroll-to-top.js"></script>
   </body>
 </html>
