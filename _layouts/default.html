@@ -18,7 +18,7 @@
 
       function onLoad() {
         var scrollTopButton = document.getElementById("scroll-to-top-btn");
-        
+
         var header = document.getElementsByClassName('page-header')[0];
         var scrollThreshold = header.clientHeight;
         
@@ -45,7 +45,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="/#study-of-the-books" class="btn">To the Studies</a>
+      <a href="/ddgw/#study-of-the-books" class="btn">To the Studies</a>
       <a target="_blank" href="{{ site.github.repository_url }}/issues/new" class="btn">Open a Issue</a>
     </header>
 
@@ -54,7 +54,7 @@
     </main>
 
     <footer class="site-footer">
-        <a href="/#study-of-the-books" class="btn">To the Studies</a>
+        <a href="/ddgw/#study-of-the-books" class="btn">To the Studies</a>
         <a target="_blank" href="{{ site.github.repository_url }}/issues/new" class="btn">Open a Issue</a>
         
         <div class="site-footer-credits">
