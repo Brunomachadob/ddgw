@@ -4,7 +4,7 @@ This is a study/research compilation of my Bible reading.
 
 My idea is to have a living document that will be updated from time to time according to new understandings, debates with friends and more researches.
 
-I also have plans to use this in quick sessions with people that are interested in learning or understanding some aspects of the context and meanings.
+I also have plans to use this in quick sessions with people that are interested on learning and debating about it
 
 As it is written in [Acts 8:30-31](https://www.biblegateway.com/passage/?search=Acts+8%3A30-31&version=ESV)
 
@@ -17,7 +17,7 @@ Fell free to drop an issue or pull request here for any kind of discussion or fi
 
 I'm also available under the following e-mail: <brunomb.web@gmail.com>
 
-# Books
+# Study of the Books
 
 * [Genesis](genesis.md)
 
