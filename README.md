@@ -19,5 +19,5 @@ I'm also available under the following e-mail: <brunomb.web@gmail.com>
 
 # Study of the Books
 
-* [Genesis](genesis.md)
+* [Genesis](books/genesis.md)
 
