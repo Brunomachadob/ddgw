@@ -60,7 +60,7 @@ Apparently this is a nice detail that we have multiple theories around it, but o
 
 ### Is the author talking about 6 literal days?
 
-This is another good source of discussion, that are people that argue the days here are actually a long period of time.
+This is another good source of discussion, there are people that argue the days here are actually a long period of time.
 
 Others say Genesis 1 is not supposed to be a scientific research paper of how it really happened in detail, but more like a `How to put in human-understanding-terms the process of creation that happened?`
 
@@ -102,8 +102,8 @@ And the chapter goes on better explaining what happened during mankind creation 
 ### God's rest
 
 We have to take into consideration that this was **not really a literal rest**, not as we need to rest after work, for example.
-
-But I believe in someway a type of analogy for us, that he stopped with the creation, the creation task was ticked on His list.
+ 
+I believe this some kind of analogy for us, that he stopped with the creation, the creation task was ticked on His list.
 
 We also have indications in other books that **God continues to work**, including in the 7th day, our Saturday.
 

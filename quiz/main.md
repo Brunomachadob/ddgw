@@ -59,7 +59,7 @@ This is a small collection of questions and answers regarding the Bible
 
 <details>
     <summary>Which of the twelve disciples did not have his feet washed by Jesus?</summary>
-    <p>None, they all had their feet feed washed.</p>
+    <p>None, they all had their feet washed.</p>
     <a target="_blank" href="https://www.biblegateway.com/passage/?search=John+13%3A5&version=NIV">
         John 13:5
     </a>
